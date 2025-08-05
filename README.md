@@ -1,6 +1,7 @@
 # Arabic-News-Classification-Project
 Deep learning model for news classification with 5 categories (sport, politic, culture, economy and diverse)
 
+
 ![image](https://github.com/user-attachments/assets/152b22a1-2206-47b3-927e-5e80e5efa4a2)
 
 ![image](https://github.com/user-attachments/assets/88e0504c-292d-463f-9fd2-6512b3e52a45)
